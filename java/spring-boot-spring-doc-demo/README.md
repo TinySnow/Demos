@@ -31,8 +31,8 @@
 
 - 以此 `README.md` 文件当前目录作为相对路径
 
-- ```bash
-  PROJECT
+```bash
+PROJECT
 │  .gitignore
 │  HELP.md
 │  pom.xml
@@ -44,29 +44,29 @@
 │      result-whole.png
 │
 └─src
-    ├─main
-    │  ├─java
-    │  │  └─tinysnow
-    │  │      └─demo
-    │  │          │  SpringBootSpringDocDemoApplication.java
-    │  │          │
-    │  │          ├─config
-    │  │          │      SpringDocConfiguration.java
-    │  │          │
-    │  │          └─controller
-    │  │                  TestController.java
-    │  │
-    │  └─resources
-    │      │  application.yml
-    │      │
-    │      ├─static
-    │      └─templates
-    └─test
-        └─java
-            └─tinysnow
-                └─demo
-                        SpringBootSpringDocDemoApplicationTests.java
-  ```
+  ├─main
+  │  ├─java
+  │  │  └─tinysnow
+  │  │      └─demo
+  │  │          │  SpringBootSpringDocDemoApplication.java
+  │  │          │
+  │  │          ├─config
+  │  │          │      SpringDocConfiguration.java
+  │  │          │
+  │  │          └─controller
+  │  │                  TestController.java
+  │  │
+  │  └─resources
+  │      │  application.yml
+  │      │
+  │      ├─static
+  │      └─templates
+  └─test
+      └─java
+          └─tinysnow
+              └─demo
+                      SpringBootSpringDocDemoApplicationTests.java
+```
 
 ### 无更改
 
